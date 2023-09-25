@@ -8,6 +8,8 @@ Alternative commercial license terms are available from Sixty North AS if you wi
 part of a proprietary closed source product or deliver software software-as-a-service (SaaS) using Segpy as part
 of a proprietary closed source service.
 
+This fork fixes compatibility issues with Python 3.10+ and Windows
+
 Status
 ======
 
